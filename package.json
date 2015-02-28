@@ -1,5 +1,5 @@
 {
-  "name": "Node Real Time Chat",
+  "name": "node-real-time-chat",
   "version": "0.0.1",
   "description": "A Node.js Chat app using Socket.io",
   "main": "server.js",
